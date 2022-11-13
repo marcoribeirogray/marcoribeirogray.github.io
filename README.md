@@ -7,3 +7,7 @@
   - EBS
   - Docker
   - Router 53  
+
+
+## Pessoal
+![ERRO](https://media.giphy.com/media/JfDNFU1qOZna/giphy.gif)
