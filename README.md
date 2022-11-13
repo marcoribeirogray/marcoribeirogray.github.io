@@ -11,3 +11,7 @@
 
 ## Pessoal
 ![ERRO](https://media.giphy.com/media/JfDNFU1qOZna/giphy.gif)
+
+### Pessoas
+
+[![ERRO](https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif)](https://giphy.com/trending-gifs)
